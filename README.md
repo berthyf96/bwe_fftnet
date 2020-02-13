@@ -1,9 +1,7 @@
 # bwe_fftnet
 Implementation of Bandwidth Expansion Using Perceptually-Motivated Loss (ICASSP 2019). The network is a three-way split summation FFTNet, trained on a waveform-based loss and spectrogram-based perceptual loss.
 
-PDF: https://gfx.cs.princeton.edu/pubs/Feng_2019_LBE/Feng_2019_bwe.pdf
-
-Listening Samples: https://daps.cs.princeton.edu/projects/bwe/
+Our paper describing this work as well as listening samples can be heard at our project page: https://pixl.cs.princeton.edu/pubs/Feng_2019_LBE/
 
 ## Getting started
 This project was tested using Python 3.6 and CUDA 7.3.0. Dependencies include:
